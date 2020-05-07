@@ -1,8 +1,8 @@
-## Tetris-Game 
+## Movie-App 
 
 ## Preview
 
-![Preview](https://image.noelshack.com/fichiers/2020/19/3/1588727705-testir.jpg)
+![Preview](https://image.noelshack.com/fichiers/2020/19/4/1588818219-movie1.jpg)(https://image.noelshack.com/fichiers/2020/19/4/1588818224-movie2.jpg)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
